@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "TestKotlinWatch"
-include ':app'
+include ':smartwatch'
+include ':mobile'
