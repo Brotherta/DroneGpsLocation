@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "TestKotlinWatch"
-include ':smartwatch'
+rootProject.name = "ClswTmdbApi2022"
 include ':mobile'
+include ':wear'

@@ -1,4 +1,4 @@
-package com.ihm.dronegpsmobileapp;
+package com.ihm.dronemobile;
 
 import org.junit.Test;
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DroneGpsMobileApp</string>
+    <string name="app_name">DroneLocationMobile</string>
 
     <string name="next_button">NEXT</string>
     <string name="prev_button">PREV</string>
